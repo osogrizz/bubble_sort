@@ -5,7 +5,7 @@
 * Implement a sorting algorithm in ruby
 * Offer a solution to optimize the algorithm
 
-A bubblesort is performed by taking the first two index  of an array and comparing it to the next one and sorting them if necessary then moving on to the next inex and repeating until the ntire array is sorted.
+A bubblesort is performed by taking the first index  of an array and comparing it to the next one and sorting them if necessary then moving on to the next inex and repeating until the entire array is sorted.
 
 
 ## To do
