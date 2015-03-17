@@ -5,6 +5,9 @@
 * Implement a sorting algorithm in ruby
 * Offer a solution to optimize the algorithm
 
+
+
+
 ## To do
 
 * Run the `rspec` command in the root directory of this project.
